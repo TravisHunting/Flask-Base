@@ -1,6 +1,6 @@
 # Flask-Base (Heroku)
 
-This repo automatically deploys to ... <br/> 
+This repo has all the boilerplate needed for immediate deployment to Heroku. Just fork it, and then in your Heroku settings, add "Deploy from Github Repo". This app is already set up with Bootstrap and a base.html template to inherit from. 
 
 
 ## Dev Info:
